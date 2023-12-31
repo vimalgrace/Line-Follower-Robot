@@ -1,16 +1,16 @@
 ## Line Follower Robot
 
-**Description**
+## Description
 The Line Follower Robot is an autonomous robotic system designed to follow a black line using sensor technology. It utilizes an Arduino UNO R3 microcontroller and various components to detect the line and control the movement of the robot. The robot can navigate along the line, making it suitable for applications such as automated guided vehicles, industrial automation, and educational projects.
 
 ## Video Demonstration
 Here is the link to a video demonstrating how the robot works: [Video Link](https://drive.google.com/file/d/1b8ST6YWiGz65kEceOHusv2apEO3KE2pj/view?usp=share_link)
 
-**Technology Used**
+## Technology Used
 - Arduino IDE: The integrated development environment used for programming the Arduino UNO R3.
 - C++ Programming: The programming language used to develop the robot's control algorithms.
 
-**Components Used**
+## Components Used
 - **Arduino UNO R3:** The microcontroller board serves as the brain of the robot, responsible for processing sensor inputs and controlling motor outputs.
 - **Ultrasonic Sensor:** Used for obstacle detection to avoid collisions while following the line.
 - **L293d Motor Driver:** Controls the DC geared motors that provide movement to the robot.
@@ -20,10 +20,7 @@ Here is the link to a video demonstrating how the robot works: [Video Link](http
 - **Jumper Wires:** Establishes electrical connections between various components for data and power transmission.
 - **Infrared Sensor:** Detects the black line on the surface and provides feedback to the robot's control system.
 
-**Video Demonstration**
-Here is the link to a video demonstrating how the Line Follower Robot works: [Video Link](https://drive.google.com/file/d/1b8ST6YWiGz65kEceOHusv2apEO3KE2pj/view?usp=share_link)
-
-**Step-by-Step Images**
+## Step-by-Step Images
 For a detailed visual guide, refer to the step-by-step images available at this link: [Image Link](https://drive.google.com/drive/folders/15XCGJaNLcRhaJf5pqkOipkXOV7ZzuB5F?usp=share_link)
 
 ## Usage
